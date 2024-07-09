@@ -36,11 +36,20 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}    
+
+        {% if page.collection == 'publications' %}
+            <p>{{page.authors}}</p>
+            {% if page.venue and page.date %}
+            <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+            {% endif %}
+            <p>{{page.abstract}}</p>
+            {% if page.proceedings and page.venue %}
+                <p><a href="{{page.proceedings}}">Proceedings Version</a>, <a href="{{page.eprint}}">Full Version</a>.</p>
+            {% else %}
+                <p><a href="{{page.eprint}}">Eprint Version</a>.</p>
+            {% endif %}
+        {% endif %}
         </header>
       {% endunless %}
 
@@ -52,7 +61,6 @@ layout: default
         {% elsif page.citation %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }} </p>
         {% endif %}
-
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
