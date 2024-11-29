@@ -4,7 +4,7 @@ collection: teaching
 type: "Thesis Supervision"
 permalink: /teaching/msc-utkan
 venue: "EPFL Lausanne"
-date: 2023-09-13
+date: 2024-08-01
 location: "Zurich, Switzerland"
 ---
 
