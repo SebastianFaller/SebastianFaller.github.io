@@ -3,7 +3,7 @@ title: "How to (not) combine Oblivious Pseudorandom Functions"
 collection: publications
 permalink: /publication/oprf_combiners
 venue: 'Eprint'
-date: 2024-06-09
+date: 2025-06-09
 authors: 'Sebastian Faller, Julia Hesse'
 eprint: 'https://eprint.iacr.org/2025/1084'
 proceedings: ' '

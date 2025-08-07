@@ -3,7 +3,7 @@ title: "The 2Hash OPRF Framework and Efficient Post-Quantum Instantiations"
 collection: publications
 permalink: /publication/2hash_framework
 venue: 'Eurocrypt 2025'
-date: 2024-03-18
+date: 2025-03-28
 authors: 'Ward Beullens, Lucas Dodgson, Sebastian Faller, Julia Hesse'
 eprint: 'https://eprint.iacr.org/2024/450'
 proceedings: 'https://doi.org/10.1007/978-3-031-91101-9_12'
