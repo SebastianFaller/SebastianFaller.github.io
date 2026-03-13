@@ -2,7 +2,7 @@
 title: "Combining Oblivious Pseudorandom Functions"
 collection: publications
 permalink: /publication/oprf_combiners
-venue: 'to appear at Eurocrypt 26'
+venue: 'to appear at Eurocrypt 2026'
 date: 2026-05-01
 authors: 'Sebastian Faller, Marc Fischlin, Julius Hardt, Julia Hesse'
 eprint: 'https://eprint.iacr.org/2025/1084'

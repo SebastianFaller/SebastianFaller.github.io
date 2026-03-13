@@ -2,7 +2,7 @@
 title: "Lattice-based Threshold Blind Signatures"
 collection: publications
 permalink: /publication/threshold_blind_sig
-# venue: 'to appear at Eurocrypt 226'
+venue: 'to appear at IEEE S&P 2026'
 date: 2026-10-06
 authors: 'Sebastian Faller, Guilhem Niot, Michael Reichle'
 eprint: 'https://eprint.iacr.org/2025/1566'
