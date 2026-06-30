@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 I am a Research Scientist at IBM Research Europe in Rüschlikon, ZH.
-Before, I completed a PhD in Cryptography at ETH Zürich and IBM Research. I was very fortunate to have Dr. Julia Hesse and Prof. Dennis Hofheinz as my supervisors.
+Before, I completed a PhD in Cryptography at ETH Zürich and IBM Research. I was very fortunate to have had Dr. Julia Hesse and Prof. Dennis Hofheinz as my supervisors.
 
 My research interests are Oblivious Pseudo-Random Functions, Password-Authenticated Key Exchange and everything that relates to those topics.
