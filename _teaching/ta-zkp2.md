@@ -4,10 +4,10 @@ collection: teaching
 type: "Teaching Assitant"
 permalink: /teaching/ta-zkp
 venue: "ETH Zurich"
-date: 2024-09-15
+date: 2025-09-15
 location: "Zurich, Switzerland"
 ---
 
 Lecturer: Dr. Jonathan Bootle 
 
-2024
+2025
