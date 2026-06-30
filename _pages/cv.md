@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cryptography, IBM Research Zurich and ETH Zurich, Supervisors: Dr. Julia Hesse, Prof. Dr. Dennis Hofheinz, 2026 (expected)
+* Ph.D in Cryptography, IBM Research Zurich and ETH Zurich, Supervisors: Dr. Julia Hesse, Prof. Dr. Dennis Hofheinz, 2026 
 * M.S. in Computer Science, Karlsruhe Institute of Technology, 2022
 * B.S. in Computer Science, Karlsruhe Institute of Technology, 2019
 

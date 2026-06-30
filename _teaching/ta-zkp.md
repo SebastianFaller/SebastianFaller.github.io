@@ -10,4 +10,4 @@ location: "Zurich, Switzerland"
 
 Lecturer: Dr. Jonathan Bootle 
 
-2024
+2024,2025
